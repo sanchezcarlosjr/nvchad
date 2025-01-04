@@ -6,7 +6,7 @@
 
 # Install
 ```bash
-git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+git clone https://github.com/sanchezcarlosjr/nvchad ~/.config/nvim && nvim
 ```
 1. Run :MasonInstallAll command after lazy.nvim finishes downloading plugins.
 
